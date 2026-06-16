@@ -1,5 +1,5 @@
 {
-  "game_name": "Platanus Hack: CDMX Brick Breaker",
-  "description": "Batalla campal por romper la mayor cantidad de ladrillos",
-  "player_mode": "two_player"
+  "name": "Science Brawl",
+  "description": "Pick a legendary scientist and fight a fast neon laboratory duel with joystick plus two buttons.",
+  "player_mode": "single_player"
 }
